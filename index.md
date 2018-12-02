@@ -1,40 +1,14 @@
 ## 적도 예술코딩 워크숍 04
 ### p5.js, 웹에 그림을 그리며 배우는 코딩의 기초
 
-## Welcome to GitHub Pages
+2018년 12월 17일, 18일, 19일 3일 간 적도에서 p5.js 워크숍을 진행합니다.
+원래는 지난 10월 부터 준비된 워크숍인데 그간 이런저런 일들로 조금씩 미뤄지다 드디어 진행하게 되네요.
+적도에서 몇 번의 예술과 관련된 코딩 워크숍을 진행하면서,
+코딩에 대한 기초를 함께 실습하며 배우는 과정이 있으면 좋겠다는 생각으로 기획하게 되었습니다.
 
-You can use the [editor on GitHub](https://github.com/morfant/self-taught/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/morfant/self-taught/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+------------------
+### Contact
+[email](mailto:giy.hands@gmail.com)
