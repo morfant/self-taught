@@ -2,16 +2,13 @@
 ## 플랫폼에이 워크숍
 ### _슈퍼콜라이더, 아무 소리나 내면서 배우는 음악타이핑_
 
-12월 21 ~ 22일 이틀 간, 오후 2시부터 4시까지 각 2시간 동안 [플랫폼에이](https://www.instagram.com/explore/tags/%ED%94%8C%EB%9E%AB%ED%8F%BC%EC%97%90%EC%9D%B4/){: target="_blank" }에서 [슈퍼콜라이더](https://supercollider.github.io/){: target="_blank" }로 마구(?) 소리를 내보는 워크숍을 진행합니다.  
+12월 21 ~ 22일 이틀 간, 오후 2시부터 4시까지 각 2시간 동안 [플랫폼에이](https://www.instagram.com/platforma_official/){: target="_blank" }에서 [슈퍼콜라이더](https://supercollider.github.io/){: target="_blank" }로 마구(?) 소리를 내보는 워크숍을 진행합니다.  
 
 
 슈퍼콜라이더(이하 '슈콜') 워크숍을 몇 번 진행해보니 여유있는 커리큘럼으로 천천히 진행하지 않으면 초반의 진입장벽을 넘기 쉽지 않다는 느낌이 들었습니다. 그리고 그래서 뭔가를 꽉꽉 채워서 진행하려다 보니 제가 처음 슈콜을 배울 때 느꼈던, 새로운 방식으로 소리를 만들어 본다는 신선한 감각이나 재미(혹은 숨겨진 가능성)도 잘 전달할 수 없었던 것 같아 안타까웠구요. 그래서 마침 슈콜 워크숍을 제안 받은 김에 부담없이 아무 소리나 내보는 것으로 시작해서(그리고 저는 아무 소리나 내는 것을 돕는) 더 하고 싶은 것이나 알고 싶은 것이 생기면 그때그때 그 방향으로 좀 더 나아가 보는 형식으로 해볼까 합니다.
 SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_Hadron_Collider){: target="_blank" }가 아니라(!) 프로그래밍을 통해 소리를 만들고(Synthesize) 다양한 방식으로 다루는 것이 가능한 오픈소스 프로그래밍 언어입니다.
 
-그럼 신청은 아래 링크를 참고해 주세요.
-
-
-[신청링크](){: target="_blank" }!
+그럼 신청은 [여기를](https://www.instagram.com/p/BqzHNziAyMB/){: target="_blank" } 참고해 주세요.  
 
 
 
