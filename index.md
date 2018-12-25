@@ -71,7 +71,9 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 
 이런 것들을 그렸는데요, 
 <iframe src="https://editor.p5js.org/morfant/embed/HJw7DGrxN" width="400" height="400"></iframe>
-<iframe src="https://editor.p5js.org/morfant/embed/Hkcmof8eN" width="400" height="400"></iframe> 
+<iframe src="https://editor.p5js.org/morfant/embed/Hkcmof8eN" width="400" height="400"></iframe>
+<iframe src="https://editor.p5js.org/morfant/embed/Sk2IDDDe4" width="500" height="400"></iframe>
+<iframe src="https://editor.p5js.org/morfant/embed/HJhIlIDxE" width="400" height="400"></iframe>
 
 
 
