@@ -20,7 +20,7 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 
 
 
-잘 마무리 했습니다.
+#### 잘 마무리 했습니다.
 
 [마무리 포스트](https://www.instagram.com/p/Brtt-Otg1pg/?utm_source=ig_web_options_share_sheet){: target="_blank" }
 
@@ -75,7 +75,7 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 
 
 
-잘 마무리 했습니다!
+#### 잘 마무리 했습니다!
 
 각자의 이유로 충분한 동기를 가지신 분들이 참여해 주셔서 마음 편하고 또 즐거운 시간이었습니다.
 
