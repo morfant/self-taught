@@ -54,7 +54,7 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 -------------------------  
 
 
-<iframe frameborder="0" src="https://editor.p5js.org/morfant/embed/SyRnVrkWV" width="window.innerWidth" height="80"></iframe>
+<iframe frameborder="0" src="https://editor.p5js.org/morfant/embed/SyRnVrkWV" width="100%" height="80"></iframe>
 
 
 #### 2018 / 12
