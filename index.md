@@ -11,11 +11,18 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 그럼 신청은 [여기를](https://www.instagram.com/p/BqzHNziAyMB/){: target="_blank" } 참고해 주세요.  
 
 
+-------------------------  
+-------------------------  
+
+
+
 잘 마무리 했습니다.
-https://www.instagram.com/p/Brtt-Otg1pg/?utm_source=ig_web_options_share_sheet
+
+[마무리 포스트](https://www.instagram.com/p/Brtt-Otg1pg/?utm_source=ig_web_options_share_sheet){: target="_blank" }
 
 
 감상
+
 관심과 질문이 있어서 좋았습니다.
 처음부터 이론적인 것을 모두 설명하고 실습하는 방식이 아닌, 코드를 먼저 보고 간단히 설명을 더한 후, 같은 형식을 함께 다시 작성해 보는 방식을 시도했는데 캐쥬얼한 느낌, 부담 없는 느낌이라서 좋았던 것 같습니다. 이런 경우에는 함께 작성해 보는 중간 중간 참여자분들이 어느 정도 따라오고 있는지 확인 하는 시간이 필요할 듯 하구요.
 
@@ -27,6 +34,7 @@ https://www.instagram.com/p/Brtt-Otg1pg/?utm_source=ig_web_options_share_sheet
 그리고 슈콜의 Pattern, Pbind에 대해 설명할 때는 GUI로 이루어진 기존의 시퀀싱 프로그램의 미디노트나 타임라인을 보면서 설명을 진행하는 것이 더 효과적일 것 같다는 생각도 했구요.
 
 
+아무튼 낯선 것들에 관심 가져주시고 함께 공부해 주신 분들과 자리를 만들어 주신 분들께 감사드립니다.
 
 
 
