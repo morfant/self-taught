@@ -1,3 +1,28 @@
+#### 2019 / 1
+## 적도 예술코딩 워크숍(JDAC) 05
+### _p5.js, 알고리즘 식물학_
+
+
+꾸준히 워크숍을 해야겠다고 다시 한 번 다짐하는 2019년 1월 입니다. 그 첫 번째로는 알고리즘을 이용해 유사 식물(?) 그림을 그려보는 워크숍을 준비하고 있습니다.
+
+
+장미곡선이라고 불리는 [극좌표계](https://ko.wikipedia.org/wiki/%EA%B7%B9%EC%A2%8C%ED%91%9C%EA%B3%84){: target="_blank" }에서의 그래프, [Algorithmic beauty of plants](http://algorithmicbotany.org/papers/abop/abop.pdf){:target="_blank"}에 소개되는 해바라기 씨앗의 배열(100 p), 너무 유명해서 흔하기도 한 [프랙탈 트리](https://www.google.co.kr/search?biw=1720&bih=844&tbm=isch&sa=1&ei=_l04XNvjCpT3hwPH66nYCg&q=fractal+tree&oq=fractal+tree&gs_l=img.3..0l10.7238.11204..11490...1.0..1.109.1456.1j13......2....1..gws-wiz-img.....0..0i67.1SR9WMl7drA){:target="_blank"}, 그리고 [L-System](https://en.wikipedia.org/wiki/L-system){:target="_blank"} 등에 대해 함께 공부하며 [터틀 그래픽](https://en.wikipedia.org/wiki/Turtle_graphics){:target="_blank"} 방식으로 프랙탈을 그려 보아요. 그리고 여유가 된다면 [OOP](https://ko.wikipedia.org/wiki/%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D){:target="_blank"}를 적용해 열매나 씨앗의 모양을 제멋대로 바꾸어 보도록 하죠.
+
+
+앞서의 책 [Algorithmic beauty of plants](http://algorithmicbotany.org/papers/abop/abop.pdf){:target="_blank"}에 여러가지 규칙과 그 결과들이 소개되고 있는데 실제로 해보면 좀 놀랍기도 하고 재미있습니다. 그리고 왠지 영감을 받을 것 같은 느낌도 들고요. 
+
+
+그럼 준비가 되는대로 신청 링크를 올리겠습니다.
+
+
+-------------------------  
+-------------------------  
+-------------------------  
+
+
+<iframe frameborder="0" src="https://editor.p5js.org/morfant/embed/SyRnVrkWV" width="100%" height="80"></iframe>
+
+
 #### 2018 / 12
 ## 플랫폼에이 워크숍
 ### _슈퍼콜라이더, 아무 소리나 내면서 배우는 음악타이핑_
@@ -50,7 +75,7 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 
 
 #### 2018 / 12
-## 적도 예술코딩 워크숍 04
+## 적도 예술코딩 워크숍(JDAC) 04
 ### _p5.js, 웹에 그림을 그리며 배우는 코딩의 기초_
 
 12월 17 ~ 19일 3일 동안, 저녁 8시 ~ 10시 각 2시간 동안 [적도](https://www.instagram.com/jeokdo/){: target="_blank" }에서 [p5.js](https://p5js.org/){: target="_blank" } 워크숍을 진행합니다.  
