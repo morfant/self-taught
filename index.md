@@ -1,10 +1,4 @@
-[test](#supercollider-musical-typing)
 
-
-[test2](#p5js-drawing-on-the-web-for-coding-basic)
-
-
-[test3](#p5js-algorithmic-botany)
 -------------------------  
 -------------------------  
 -------------------------  
@@ -27,8 +21,9 @@
 
 그럼 준비가 되는대로 신청 링크를 올리겠습니다.
 
-
-<iframe frameborder="0" src="https://editor.p5js.org/morfant/embed/SyRnVrkWV" width="100%" height="80"></iframe>
+-------------------------  
+-------------------------  
+-------------------------  
 
 
 #### 2018 / 12
@@ -46,14 +41,6 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 
 
 -------------------------  
--------------------------  
--------------------------  
-
-
-
-
-
-
 #### 잘 마무리 했습니다.
 
 [마무리 포스트](https://www.instagram.com/p/Brtt-Otg1pg/?utm_source=ig_web_options_share_sheet){: target="_blank" }
@@ -72,16 +59,11 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 그리고 슈콜의 Pattern, Pbind에 대해 설명할 때는 GUI로 이루어진 기존의 시퀀싱 프로그램의 미디노트나 타임라인을 보면서 설명을 진행하는 것이 더 효과적일 것 같다는 생각도 했구요.
 
 
-
 낯선 것들에 관심 가져주시고 함께 공부해 주신 분들과 그런 자리를 만들어 주신 분들께 감사드립니다.
 
-
-
-
-<iframe frameborder="0" src="https://editor.p5js.org/morfant/embed/SyRnVrkWV" width="100%" height="80"></iframe>
-
-
-
+-------------------------  
+-------------------------  
+-------------------------  
 
 #### 2018 / 12
 #### p5js drawing on the web for coding basic
@@ -98,12 +80,6 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 
 
 -------------------------  
--------------------------  
--------------------------  
-
-
-
-
 #### 잘 마무리 했습니다!
 
 각자의 이유로 충분한 동기를 가지신 분들이 참여해 주셔서 마음 편하고 또 즐거운 시간이었습니다.
