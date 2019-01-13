@@ -13,7 +13,7 @@
 
 
 
-<iframe src="https://editor.p5js.org/morfant/embed/SJr705Gz4" width="400" height="400"></iframe> 
+<iframe src="https://editor.p5js.org/morfant/embed/SJr705Gz4" width="400" height="400" frameBorder="0"></iframe> 
 
 
 
