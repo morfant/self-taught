@@ -104,7 +104,8 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 
 또 p5.js가 가진 DOM을 다룰 수 있는 강점, 웹 서버와 연동하면 가질 수 있는 확장성에 대해서도 살펴 보았구요.  
 
-
+-------------------------  
+-------------------------  
  
 <div><iframe src="https://editor.p5js.org/morfant/embed/HJw7DGrxN" frameBorder="0" width="400" height="400"></iframe></div>  
 
@@ -123,9 +124,8 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 
 <div><iframe src="https://editor.p5js.org/morfant/embed/HJhIlIDxE" frameBorder="0" width="400" height="400"></iframe></div>  
 
-
-
-
+-------------------------  
+-------------------------  
 
 추운 날씨에도 늦은 저녁시간 먼 곳까지 찾아와 주시고 열심히 참여해 주신 분들께 진심으로 감사드립니다. 아직 방한 준비가 덜 된 공간이라 두 번째 시간에는 난로를 켤 수 없는 비상 사태까지 있었음에도, 동고동락 해주셨네요.  
 
