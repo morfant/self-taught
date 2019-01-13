@@ -1,5 +1,7 @@
-[test](#_슈퍼콜라이더,-아무-소리나-내면서-배우는-음악타이핑_)
-[test2](#_p5.js,-웹에-그림을-그리며-배우는-코딩의-기초_)
+[test](#superCollider-musical-typing)
+
+
+[test2](#p5js-drawing-on-the-web-for-coding-basic)
 
 -------------------------  
 -------------------------  
@@ -29,6 +31,7 @@
 #### 2018 / 12
 ## 플랫폼에이 워크숍
 ### _슈퍼콜라이더, 아무 소리나 내면서 배우는 음악타이핑_
+### SuperCollider musical typing
 
 12월 21 ~ 22일 이틀 간, 오후 2시부터 4시까지 각 2시간 동안 [플랫폼에이](https://www.instagram.com/platforma_official/){: target="_blank" }에서 [슈퍼콜라이더](https://supercollider.github.io/){: target="_blank" }로 마구(?) 소리를 내보는 워크숍을 진행합니다.  
 
@@ -80,6 +83,7 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 #### 2018 / 12
 ## 적도 예술코딩 워크숍(JDAC) 04
 ### _p5.js, 웹에 그림을 그리며 배우는 코딩의 기초_
+### p5js drawing on the web for coding basic
 
 12월 17 ~ 19일 3일 동안, 저녁 8시 ~ 10시 각 2시간 동안 [적도](https://www.instagram.com/jeokdo/){: target="_blank" }에서 [p5.js](https://p5js.org/){: target="_blank" } 워크숍을 진행합니다.  
 
