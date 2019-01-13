@@ -4,6 +4,8 @@
 @import "{{ site.theme }}";
 
 iframe {
-    margin: 0 auto;
+    margin: 200 auto;
     display:block;
+    frameborder:0;
+    
 }
