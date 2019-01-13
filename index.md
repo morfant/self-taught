@@ -1,28 +1,8 @@
-
-[here](https://editor.p5js.org/morfant/full/SJr705Gz4){:target="_blank"}
-
-
-
-[dd](https://editor.p5js.org/morfant/sketches/SJr705Gz4){:target="_blank"}
+[test](#_p5.js,-알고리즘-식물학_)
 
 -------------------------  
 -------------------------  
 -------------------------  
-
-
-
-
-
-<iframe src="https://editor.p5js.org/morfant/embed/SJr705Gz4" width="400" height="400" frameBorder="0"></iframe> 
-
-
-
-
--------------------------  
--------------------------  
--------------------------  
-
-
 
 
 #### 2019 / 01
