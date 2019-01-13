@@ -26,6 +26,10 @@
 -------------------------  
 
 
+
+
+
+
 #### 2018 / 12
 #### supercollider musical typing
 ## 플랫폼에이 워크숍
@@ -40,8 +44,8 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 그럼 신청은 [여기를](https://www.instagram.com/p/BqzHNziAyMB/){: target="_blank" } 참고해 주세요.  
 
 
--------------------------  
 #### 잘 마무리 했습니다.
+
 
 [마무리 포스트](https://www.instagram.com/p/Brtt-Otg1pg/?utm_source=ig_web_options_share_sheet){: target="_blank" }
 
@@ -79,8 +83,8 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 [워크숍에 대한 소개](https://drive.google.com/open?id=1X5EPayGi6d3dtecgFq5nY0Uu0HrLxurrqTy09itqtjI){: target="_blank" } 그리고 [신청링크](https://drive.google.com/open?id=1wFQdgj5SlkiE1h9vBownvv1ySVyMWgiJ3GobNJtCHTs){: target="_blank" }!
 
 
--------------------------  
 #### 잘 마무리 했습니다!
+
 
 각자의 이유로 충분한 동기를 가지신 분들이 참여해 주셔서 마음 편하고 또 즐거운 시간이었습니다.
 
