@@ -102,26 +102,20 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 
 총 3회로 진행된 워크숍이었는데요 두 번째 시간을 끝낸 후의 피드백을 바탕으로, 원래 OOP(Object Oriented Programming)에 대한 내용을 하기로 했던 세 번째 시간을 __프로그래밍의 체계__(?)를 학습하는데에 사용했습니다. 이번 워크숍의 중요한 목표 였던 __코딩의 기초__ 를 익히는 데에는 OOP를 맛보는 것보다 프로그래밍 언어의 자료형(Type)에 대한 개념, 함수의 오버로딩(Overloading)등에 대한 지식을 바탕으로 p5.js의 도움말 문서(Reference)를 읽고 이해할 수 있는 능력을 갖추는 것이 더 중요하다고 생각 했기 때문입니다. 첫 시간에도 이러한 내용이 포함되어 있긴 했지만, 제가 생각 했던 것보다 조금 더 구체적이고 반복적인 실습을 포함한 학습 과정이 필요했던 것 같아요.
 
-또 p5.js가 가진 DOM을 다룰 수 있는 강점, 웹 서버와 연동하면 가질 수 있는 확장성에 대해서도 살펴 보았구요.
+또 p5.js가 가진 DOM을 다룰 수 있는 강점, 웹 서버와 연동하면 가질 수 있는 확장성에 대해서도 살펴 보았구요.  
 
 
  
-<iframe src="https://editor.p5js.org/morfant/embed/HJw7DGrxN" frameBorder="0" width="400" height="400"></iframe>
-
-
-<iframe src="https://editor.p5js.org/morfant/embed/Hkcmof8eN" frameBorder="0" width="400" height="400"></iframe>
-
-
-<iframe src="https://editor.p5js.org/morfant/embed/Sk2IDDDe4" frameBorder="0" width="500" height="400"></iframe>
-
-
-<iframe src="https://editor.p5js.org/morfant/embed/HJhIlIDxE" frameBorder="0" width="400" height="400"></iframe>
+<div><iframe src="https://editor.p5js.org/morfant/embed/HJw7DGrxN" frameBorder="0" width="400" height="400"></iframe></div>  
+<div><iframe src="https://editor.p5js.org/morfant/embed/Hkcmof8eN" frameBorder="0" width="400" height="400"></iframe></div>  
+<div><iframe src="https://editor.p5js.org/morfant/embed/Sk2IDDDe4" frameBorder="0" width="500" height="400"></iframe></div>  
+<div><iframe src="https://editor.p5js.org/morfant/embed/HJhIlIDxE" frameBorder="0" width="400" height="400"></iframe></div>  
 
 
 
 
 
-추운 날씨에도 늦은 저녁시간 먼 곳까지 찾아와 주시고 열심히 참여해 주신 분들께 진심으로 감사드립니다. 아직 방한 준비가 덜 된 공간이라 두 번째 시간에는 난로를 켤 수 없는 비상 사태까지 있었음에도, 동고동락 해주셨네요.
+추운 날씨에도 늦은 저녁시간 먼 곳까지 찾아와 주시고 열심히 참여해 주신 분들께 진심으로 감사드립니다. 아직 방한 준비가 덜 된 공간이라 두 번째 시간에는 난로를 켤 수 없는 비상 사태까지 있었음에도, 동고동락 해주셨네요.  
 
 그럼 그리 멀지 않은 때에, __OOP + 웹서버와의 연동을 통한 확장__ 을 주제로 하는 다음 워크숍으로 찾아 뵙겠습니다.
 
