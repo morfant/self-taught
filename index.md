@@ -160,7 +160,7 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 
 날씨로 그림을 그리는, 날씨 데이터를 가져와서 그 상태를 그림으로 표현하는 워크숍을 진행했습니다.  
 p5.js에서는 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON){: targe="_blank"}이라는 메소드를 사용해서 [날씨](https://www.apixu.com/){: target="_blank"} 혹은 [지진](https://earthquake.usgs.gov/fdsnws/event/1/){: target="_blank"} 등 web API를 제공하는 데이터들을 [JSON](https://ko.wikipedia.org/wiki/JSON){: target="_blank"} 타입으로 가져올 수 있습니다. 그 중 필요한 데이터를 추출(Parsing)하여 원하는 그림의 요소로 사용하는 것이죠. 이미 __빅데이터__ 라는 개념은 유행이 지났다고 해도 될만큼 익숙하고 흔한 것이 되어버린것 같지만, 실제로 데이터를 가져와 그 요소를 그림으로 옮겨 보는 경험은 어떤 개념을 이해하는 것과는 또다른 의미가 있을 거라는 생각이 들었습니다.  
-2시간씩 3번으로 계획되어 있던 일정을 첫 시간 후에 3시간씩 2번을 더 하는 것으로 변경했는데요, p5.js도 코딩도 처음 접하는 분들이 많았던 터라 원래 계획했던 시간으로는 충분치 않다고 느꼈기 때문이었습니다. 그렇지만 참가자분들 중에는 이미 코딩이나 [Processing](https://processing.org/){: target="_blank"}을 알고 계셨던 분도 있어서 마음속에서는 어느 쪽에 맞는 속도로 진행을 해야 하나 하는 고민이 생겼었구요. 
+2시간씩 3번으로 계획되어 있던 일정을 첫 시간 후에 3시간씩 2번을 더 하는 것으로 변경했는데요, p5.js도 코딩도 처음 접하는 분들이 많았던 터라 원래 계획했던 시간으로는 충분치 않다고 느꼈기 때문이었습니다. 그렇지만 참가자분들 중에는 이미 코딩이나 [Processing](https://processing.org/){: target="_blank"}을 알고 계셨던 분도 있어서 마음속에서는 어느 쪽에 맞는 속도로 진행을 해야 하나 하는 고민이 생겼었구요.  
 [OOP](https://ko.wikipedia.org/wiki/%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D){:target="_blank"}에 대한 부분 역시 제한된 시간 안에 진행을 위해 필요한 부분만 짚고 넘어가려다보니 OOP적인 사고가 줄 수 있는 _발상의 전환_ 같은, 제가 중요하게 생각하는 부분에 대해 차근히 이야기 하지 못했던 것 같아 아쉬웠습니다.  
 그러나 날씨 데이터라는 매력적인 소재를 다루어 볼 수 있었던 점은 제게도 신선하고 좋은 경험이었습니다.  
   
