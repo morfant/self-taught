@@ -170,7 +170,7 @@ p5.js에서는 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON){: targe="_
     
 <div><iframe src="https://editor.p5js.org/morfant/embed/R59XPB7tT" frameBorder="0" width="600" height="600"></iframe></div>  
 
-* 그림을 클릭하면 다른 도시의 날씨로 그린 그림을 볼 수 있습니다.
+<p style="text-align: center;">* 그림을 클릭하면 다른 도시의 날씨로 그린 그림을 볼 수 있습니다.</p>
     
 -------------------------  
 -------------------------  
