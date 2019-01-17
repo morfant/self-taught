@@ -164,9 +164,14 @@ p5.js에서는 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON){: targe="_
 [OOP](https://ko.wikipedia.org/wiki/%EA%B0%9D%EC%B2%B4_%EC%A7%80%ED%96%A5_%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D){:target="_blank"}에 대한 부분 역시 제한된 시간 안에 진행을 위해 필요한 부분만 짚고 넘어가려다보니 OOP적인 사고가 줄 수 있는 _발상의 전환_ 같은, 제가 중요하게 생각하는 부분에 대해 차근히 이야기 하지 못했던 것 같아 아쉬웠습니다.  
 그러나 날씨 데이터라는 매력적인 소재를 다루어 볼 수 있었던 점은 제게도 신선하고 좋은 경험이었습니다.  
   
-참여해 주신 분들과, 자리를 만들어 주신 [하자센터](https://haja.net/){: target="_blank"}의 관계자 분들께 진심으로 감사드립니다.
+참여해 주신 분들과, 자리를 만들어 주신 [하자센터](https://haja.net/){: target="_blank"}의 관계자 분들께 진심으로 감사드립니다.  
+  
+  
+    
+<div><iframe src="https://editor.p5js.org/morfant/embed/R59XPB7tT" frameBorder="0" width="600" height="600"></iframe></div>  
 
-
+* 그림을 클릭하면 다른 도시의 날씨로 그린 그림을 볼 수 있습니다.
+    
 -------------------------  
 -------------------------  
 -------------------------  
