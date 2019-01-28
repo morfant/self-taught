@@ -22,9 +22,14 @@
 
 
 앞서의 책 [Algorithmic beauty of plants](http://algorithmicbotany.org/papers/abop/abop.pdf){:target="_blank"}에 여러가지 규칙과 그 결과들이 소개되고 있는데 실제로 해보면 좀 놀랍기도 하고 재미있습니다. 그리고 왠지 영감을 받을 것 같은 느낌도 들고요. 
-
-
-그럼 준비가 되는대로 신청 링크를 올리겠습니다.
+  
+    
+[워크숍에 대한 자세한 설명](https://goo.gl/bJyCrb){:target="_blank"}
+  
+  
+[신청 양식](https://goo.gl/9hDyY3){:target="_blank"}
+  
+         
 
 -------------------------  
 -------------------------  
