@@ -46,7 +46,7 @@
 
 
 
-(수업에 너무 집중하느라(?) 사진을 못찍었네요. 수업중에 stochastic L-System을 이용해 그린 나무로 대체 합니다.)
+(수업에 너무 집중하느라(?) 사진을 못찍었네요. 수업중에 stochastic(확률기반의) L-System을 이용해 그린 나무로 대체 합니다.)
 
 
 <div><iframe src="https://editor.p5js.org/morfant/embed/xsGvfJgYW" frameBorder="0" width="400" height="400"></iframe></div> 
