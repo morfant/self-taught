@@ -42,11 +42,12 @@
 
 그럼 앞으로도 계속될 JDAC 워크숍 시리즈 기대해 주세요!
 
-(수업에 너무 집중하느라(?) 사진을 못찍었네요. 수업중에 stochastic L-System을 이용해 그린 나무로 대체 합니다. 리로딩 될때마다 다른 나무가 그려져요.)
+(수업에 너무 집중하느라(?) 사진을 못찍었네요. 수업중에 stochastic L-System을 이용해 그린 나무로 대체 합니다.)
 
 
 <div><iframe src="https://editor.p5js.org/morfant/embed/xsGvfJgYW" frameBorder="0" width="400" height="400"></iframe></div> 
 
+<p style="text-align: center;">*  리로딩 될때마다 다른 나무가 그려져요. You can see a different tree when you reload this page.</p>
 
 
 -------------------------  
@@ -151,7 +152,7 @@ SuperCollider는 [CERN의 입자가속기](https://en.wikipedia.org/wiki/Large_H
 -------------------------  
 -------------------------  
 
-<div><iframe src="https://editor.p5js.org/morfant/embed/Sk2IDDDe4" frameBorder="0" width="500" height="400"></iframe></div>  
+<div><iframe src="https://editor.p5js.org/morfant/embed/Sk2IDDDe4" frameBorder="0" width="400" height="400"></iframe></div>  
 
 -------------------------  
 -------------------------  
