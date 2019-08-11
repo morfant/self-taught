@@ -11,7 +11,7 @@
 #### 2019 / 03
 #### moduschool_drawing_and_sounding_with_p5js
 ## 모두의 학교 
-### <예술코딩-컴퓨터로 만드는 그림과 소리>
+### 예술코딩-컴퓨터로 만드는 그림과 소리
 
  
 모두의 학교 봄학기가 시작되었습니다. 저는 지난 겨울 학기에 이어 [p5js](https://p5js.org){: target="_blank" }를 다루는 수업을 진행하게 되었구요. 이번 수업은 [몬드리안](https://de.wikipedia.org/wiki/Piet_Mondrian){: target="_blank" }의 그림 몇 가지를 따라그려보며 천천히 p5js 코딩에 익숙해질 수 있도록 진행될 예정입니다.  
