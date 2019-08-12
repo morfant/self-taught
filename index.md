@@ -35,7 +35,7 @@
 
 
 <div><iframe src="https://editor.p5js.org/morfant/embed/wxviWv_tr" frameBorder="0" width="800" height="800"></iframe></div> 
-<p style="text-align: center;">*  리로딩 될때마다 비슷하지만 다른 그림이 그려져요. You can see a different work when you reload this page.</p>
+<p style="text-align: center;">*  리로딩 될때마다 비슷하지만 다른 그림이 그려져요. You can see a similar but different work when you reload this page.</p>
 
  
  
