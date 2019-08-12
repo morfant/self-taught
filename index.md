@@ -31,7 +31,7 @@
 
 
 <div><iframe src="https://editor.p5js.org/morfant/embed/m720X6WPL" frameBorder="0" width="600" height="600"></iframe></div> 
-<p style="text-align: center;">*  마이크에 반응하는 그림입니다. 반응이 없는 경우 firefox 브라우저를 이용하시거나 [여기](https://editor.p5js.org/morfant/full/m720X6WPL){: target="_blank"}로 가세요. If this work not responds audio from mic, please try with Firefox browser or check [here](https://editor.p5js.org/morfant/full/m720X6WPL){: target="_blank"}.</p>
+<p style="text-align: center;">*  마이크에 반응하는 그림입니다. 반응이 없는 경우 [파이어폭스](https://www.mozilla.org/en-US/){: target="_blank"} 브라우저를 이용하시거나 [여기](https://editor.p5js.org/morfant/full/m720X6WPL){: target="_blank"}로 가세요. If this work not responds audio from mic, please try with [Firefox](https://www.mozilla.org/en-US/){: target="_blank"} browser or check [here](https://editor.p5js.org/morfant/full/m720X6WPL){: target="_blank"}.</p>
 
 
 <div><iframe src="https://editor.p5js.org/morfant/embed/wxviWv_tr" frameBorder="0" width="800" height="800"></iframe></div> 
