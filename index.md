@@ -272,4 +272,5 @@ p5.js에서는 [loadJSON()](https://p5js.org/reference/#/p5/loadJSON){: targe="_
 
 
 ### Contact
-[giy.hands@gmail.com](mailto:giy.hands@gmail.com)
+[giy.hands@gmail.com](mailto:giy.hands@gmail.com)  
+[https://www.instagram.com/giy.eyear/](https://www.instagram.com/giy.eyear/){:target="_blank"}
