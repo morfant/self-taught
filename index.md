@@ -30,7 +30,7 @@
 그 중 규칙을 파악해서 그리기는 재미있었지만 조금 어렵게 느끼셨던 것 같네요. 알고 보면 어렵지 않은 것인데 설명하는 과정에서 어려워지는 이유는, 전달해야 하는 분량을 적절히 나누어 시간을 배분하고, 그것들 사이의 순서를 잘 정하는 것이 제대로 되지 않아서 인것 같아요. 그리고 어떤 분들과 함께 하느냐에 대한 고려도 우선 되어야 할 것 같구요. 세 번째의 요소는 제 마음대로 할 수 없는 것이지만, 어쩌면 그것은 '참여자 분들에 대한 애정과 이해가 있어야 한다'로 바꾸어 말해 질 수 있는 것이기도 한 것 같네요. 다음 번에는 이 세 가지를 좀 더 잘 해보고 싶습니다.
 
 
-<div><iframe src="https://editor.p5js.org/morfant/embed/m720X6WPL" frameBorder="0" width="600" height="600"></iframe></div> 
+<div><iframe src="https://editor.p5js.org/morfant/present/m720X6WPL" frameBorder="0" width="600" height="600"></iframe></div> 
 <p style="text-align: center;">*  마이크에 반응하는 그림입니다. 반응이 없는 경우 오디오 기능 활성화를 위해 그림을 한 번 터치 또는 클릭해 주세요.  If this work not responds audio from mic, please touch or click the area once for activating.</p>
 
 
